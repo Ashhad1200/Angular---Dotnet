@@ -1,7 +1,6 @@
 {
   "version": 2,
   "dgSpecHash": "PVsEI8yswCc=",
-  "dgSpecHash": "gARcdEP3JS4=",
   "success": true,
   "projectFilePath": "F:\\PROJECTS\\Angular\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -61,12 +60,5 @@
     "D:\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512",
     "D:\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file F:\\PROJECTS\\Angular\\DatingApp\\API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
